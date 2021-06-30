@@ -6,9 +6,14 @@ namespace ShapeProj.Shapes
 {
     class Triangle : Shape
     {
-        public override void CalculateArea()
+        public Triangle()
         {
-            Console.WriteLine($"area of triangle is calculated using this {FormulaForShapeArea}");
+            FormulaForShapeArea = "(AB*CD)/2";
+        }
+
+        public override string ShowTheAriaFormula()
+        {
+            return $"Area of Triangle is calculated using this {FormulaForShapeArea}";
         }
     }
 }

@@ -6,9 +6,15 @@ namespace ShapeProj.Shapes
 {
     class Circle : Shape
     {
-        public override void CalculateArea()
+
+        public Circle()
         {
-            Console.WriteLine($"area of circle is calculated using this {FormulaForShapeArea}");
+            FormulaForShapeArea = "π R^2";
+        }
+
+        public override string ShowTheAriaFormula()
+        {
+            return $"Area of Circle is calculated using this {FormulaForShapeArea}";
         }
     }
 }

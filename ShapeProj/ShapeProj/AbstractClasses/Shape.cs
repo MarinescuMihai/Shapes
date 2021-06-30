@@ -4,13 +4,13 @@ using System.Text;
 
 namespace ShapeProj
 {
-    public class Shape : IFormula
+    public abstract class Shape
     {
-        public string FormulaForShapeArea { get ; set;}
+        protected virtual string FormulaForShapeArea { get ; set;}
 
-        public virtual void CalculateArea()
+        public virtual string ShowTheAriaFormula()
         {
-
+            return string.Empty;
         }
     }
 }
