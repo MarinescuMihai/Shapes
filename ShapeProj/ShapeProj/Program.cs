@@ -10,14 +10,14 @@ namespace ShapeProj
         {
             var shapeList = new List<Shape>()
             {
-                new Circle(){ FormulaForShapeArea =  "π R^2"},
-                new Triangle(){ FormulaForShapeArea = "(AB*CD)/2"},
-                new Square(){ FormulaForShapeArea = "a^2"}
+                new Circle(),
+                new Triangle(),
+                new Square()
             };
 
             foreach (var shape in shapeList)
             {
-                shape.CalculateArea();
+                Console.WriteLine(shape.ShowTheAriaFormula());
             }
 
             Console.ReadKey();

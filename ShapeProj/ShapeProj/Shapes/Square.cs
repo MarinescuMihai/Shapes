@@ -6,9 +6,13 @@ namespace ShapeProj.Shapes
 {
     class Square : Shape
     {
-        public override void CalculateArea()
+        public Square()
         {
-            Console.WriteLine($"area of square is calculated using this {FormulaForShapeArea}");
+            FormulaForShapeArea = "a^2";
+        }
+        public override string ShowTheAriaFormula()
+        {
+            return $"Area of Square is calculated using this {FormulaForShapeArea}";
         }
     }
 }
