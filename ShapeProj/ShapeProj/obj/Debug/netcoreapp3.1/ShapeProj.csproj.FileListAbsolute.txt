@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.exe
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.deps.json
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.runtimeconfig.json
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.dll
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\bin\Debug\netcoreapp3.1\ShapeProj.pdb
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.dll
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.pdb
+C:\Users\Hp\Desktop\Shapes2\ShapeProj\ShapeProj\obj\Debug\netcoreapp3.1\ShapeProj.genruntimeconfig.cache
